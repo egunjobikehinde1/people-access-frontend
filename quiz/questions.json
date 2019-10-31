@@ -1,0 +1,42 @@
+[
+  {
+    "question": "1. Where would you most like to work    ?",
+    "choice1": "Rome",
+    "choice2": "Nairaobi",
+    "choice3": "London",
+    "choice4": "Lagos",
+    "answer": 1
+  },
+  {
+    "question": "2. Which of these is most important to you in a job?    ",
+    "choice1": "Travel",
+    "choice2": "Family",
+    "choice3": "Technology",
+    "choice4": "Opportunities",
+    "answer": 3
+  },
+  {
+    "question": " 3. If you could solve one of these problems, which would it be?    ",
+    "choice1": "Management",
+    "choice2": "HR",
+    "choice3": "Facilities",
+    "choice4": "Recruitment",
+    "answer": 4
+  },
+  {
+    "question": " 4. Which of these skills is your strongest?    ",
+    "choice1": "Management",
+    "choice2": "Problem Solbing",
+    "choice3": "Facilities",
+    "choice4": "Data",
+    "answer": 3
+  },
+  {
+    "question": " 5. Which type of work do you enjoy the most?   ",
+    "choice1": "Helping",
+    "choice2": "Seating",
+    "choice3": "Facilities",
+    "choice4": "Sleeping",
+    "answer": 2
+  }
+]
